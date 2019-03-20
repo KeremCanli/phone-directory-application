@@ -1,0 +1,15 @@
+.ListArea {margin: 0 auto;}
+input {width: 100%;
+       height: 25px;
+       margin-top: 10px;
+       line-height: 25px;
+       text-indent: 10px;}
+.List li {width: 99%;
+          padding: 5px;
+          background-color: #f8f8f8;
+          border-bottom: 1px solid #f1f1f1;}
+.List li span {font-size: 13px;
+               display: block;}
+.List li .Name {float: left;}
+.List li .Phone {float: right;}
+.List li .ClearFix {clear: both;}
